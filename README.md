@@ -10,7 +10,7 @@
 
 🌐 Стремлюсь к разностороннему развитию и вдохновляюсь общением с сообществом разработчиков.
 
-📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KolomninSP-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KolomninSP) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](kolomninsp@gmail.com)
+📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KolomninSP-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KolomninSP) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kolomninsp@gmail.com)
  
 
 
