@@ -40,18 +40,5 @@
     </a>
   </div>
 
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-  </tr>
-</table>
   
-  <!---
-### Leetcode:
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Powerandzeal)](https://github.com/KnlnKS/leetcode-stats)
