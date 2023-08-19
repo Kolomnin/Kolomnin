@@ -11,20 +11,6 @@
 🌐 Стремлюсь к разностороннему развитию и вдохновляюсь общением с сообществом разработчиков.
 
 
-<!---
---## Мой стек технологий 📚
-
---- Java Core: разработка программного кода.
---- Spring Boot: веб-приложения, REST API, JPA.
---- SQL & БД: SQL-запросы, JPQL, Hibernate.
---- Управление версиями БД: Liquibase.
---- Архитектура: проектирование REST API, OpenAPI.
---- Тестирование: JUnit, Mockito, Spring Boot Test.
---- Сборка проектов: Maven.
---- Контейнеризация: базовое знание Docker.
--->
-
-
 ## Технологии 🛠️ :
 
 <div>
@@ -51,6 +37,23 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
+
+  ### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
   
   <!---
 ### Leetcode:
